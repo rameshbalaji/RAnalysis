@@ -1,4 +1,5 @@
 Title: Human Activity Recognition Using Smartphones Dataset 
+
 Environment: 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. 
 
@@ -8,6 +9,7 @@ o	Triaxial Angular velocity from the gyroscope.
 o	A 561-feature vector with time and frequency domain variables. 
 o	Its activity label. 
 o	An identifier of the subject who carried out the experiment.
+
 
 Raw Data:
 The experiment produced following raw data which are present in the following file representation:
